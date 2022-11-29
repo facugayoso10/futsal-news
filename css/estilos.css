@@ -1,0 +1,71 @@
+#barraContenido{
+    background-color: rgb(50, 90, 223);
+    position: absolute;
+    height: 50px;
+    width: 1000px;
+    right: 210px;
+}
+#fotologo{
+    height: 50px;
+    width: 50px;
+}
+#fondo{
+    background-color:rgb(255, 255, 255);
+}
+#letra{
+    background-color: aliceblue;
+}
+#botone1{
+    position: absolute;
+    right: 600px;
+    line-height: 302%;
+}
+#botone2{
+    position: absolute;
+    right: 400px;
+    line-height: 302%;
+}
+#botone3{
+    position: absolute;
+    right: 200px;
+    line-height: 302%; 
+}
+#botone4{
+    position: absolute;
+    right: 800px;
+    line-height: 302%; 
+}
+#foto1{
+    position: relative;
+    width: 400px;
+    right: 650px;
+    height: 400px;
+    float:right;    s
+}
+#texto{
+    width: 200px;
+    height: 200px;
+}
+#tabla{
+    position: relative;
+    width: 400px;
+    right: -900px;
+    height: 400px;
+}
+#texto2{
+    width: 200px;
+    height: 100px; 
+}
+#tabla2{
+    position: relative;
+    width: 400px;
+    right: -850px;
+    height: 400px;
+}
+#foto2{
+    position: relative;
+    width: 400px;
+    right: 550px;
+    height: 400px;
+    float:right;
+}
