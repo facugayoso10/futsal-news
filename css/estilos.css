@@ -1,9 +1,9 @@
 #barraContenido{
     background-color: rgb(50, 90, 223);
     position: absolute;
-    height: 50px;
-    width: 1000px;
-    right: 210px;
+    height: 49px;
+    width: 1216px;
+    right: 8px;
 }
 #fotologo{
     height: 50px;
@@ -17,55 +17,77 @@
 }
 #botone1{
     position: absolute;
-    right: 600px;
-    line-height: 302%;
+    right: 800px;;
+    line-height: 320%;
 }
 #botone2{
     position: absolute;
-    right: 400px;
-    line-height: 302%;
+
+    right: 600px;
+    line-height: 320%;
 }
 #botone3{
     position: absolute;
-    right: 200px;
-    line-height: 302%; 
+
+    right: 400px;
+    line-height: 320%; 
 }
 #botone4{
     position: absolute;
-    right: 800px;
-    line-height: 302%; 
+
+    right: 1000px;
+    line-height: 320%; 
 }
 #foto1{
     position: relative;
     width: 400px;
-    right: 650px;
-    height: 400px;
-    float:right;    s
+    height: 200px;
+    float:left;    
 }
 #texto{
-    width: 200px;
-    height: 200px;
+    position: absolute;
+    width: 700px;
+    height: 700px;
 }
 #tabla{
-    position: relative;
+    position: absolute;
     width: 400px;
-    right: -900px;
+    right: 15px;
     height: 400px;
+    top: 126px;
 }
 #texto2{
-    width: 200px;
-    height: 100px; 
+    width: 700px;
+    height: 700px; 
 }
 #tabla2{
-    position: relative;
+    position: absolute;
     width: 400px;
-    right: -850px;
+    right: 6px;
     height: 400px;
+    top: 119px;
 }
 #foto2{
     position: relative;
     width: 400px;
-    right: 550px;
     height: 400px;
-    float:right;
+    float:left; 
+}
+#texto10{
+    width: 700px;
+    height: 50px; 
+}
+#fotoinicio{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float:left;
+}
+#foto3{
+    position: absolute;
+    width: 200px;
+    right: 656px
+    height: 200px;
+    float:left;
+    top: 50px;
 }
